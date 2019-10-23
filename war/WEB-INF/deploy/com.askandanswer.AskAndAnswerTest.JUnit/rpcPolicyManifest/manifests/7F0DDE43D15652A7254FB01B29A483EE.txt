@@ -1,0 +1,2 @@
+serviceClass: com.askandanswer.client.service.StandardService
+path: AA468A96CCB5C347BCC7016356A0FE72.gwt.rpc

@@ -1,0 +1,188 @@
+.menuPanel {
+	width: 250px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 20px;
+	margin-right: 2px;
+}
+
+.contentPanel {
+	text-align: center !important;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 20px;
+	width: 586px;
+}
+
+.error-label {
+	color: red;
+	font-size: 14px;
+}
+.success-label {
+	color: #4e9a06;
+	font-size: 14px;
+}
+
+.default-btn {
+	background-color: #599fbb;
+	color: white;
+	outline: none;
+	padding: 7px 15px;
+	border: 1px solid #599fbb;
+	border-radius: 5px;
+	font-size: 15px;
+	margin: 5px;
+	cursor: pointer;
+}
+.delete-btn{
+	background-color: #f85050;
+	color: white;
+	border-color:#f85050;
+}
+.edit-btn{
+	background-color: #f57900;
+	color: white;
+	border-color:#f57900;
+}
+.edit-cat-btn{
+	padding: 5px 20px;
+	margin: 20px 0 0 25px;	
+}
+
+.green-btn{
+	background-color: #4ba423;
+	color: white;
+	border-color:#4ba423;
+}
+
+.default-tb {
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5px;
+	color: #595959;
+	font-size: 14px;
+}
+.register-tb{
+	width: 250px;
+}
+
+.default-LB {
+	width: 300px;
+	height: 30px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 15px;
+	margin-left: 5px;
+	padding: 5px;
+}
+
+.catLabel{
+	font-size: 25px;
+	margin: 20px 0 10px;
+}
+
+.logout-btn {
+	margin-top: 50px;
+}
+.askBox {
+	background: #ddd;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.askBox .ask-TA {
+	resize: none;
+	width: 500px;
+	height: 80px;
+	font-size: 16px;
+}
+
+.links-TA{
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5px;
+	color: #595959;
+	resize: none;
+	width: 500px;
+	height: 45px;
+	font-size: 14px;	
+}
+
+.questionBox {
+	margin-top: 10px;
+	width: 544px;
+}
+.rispostaBox{
+	background-color: #89C4F4;
+	border-color: #89C4F4;
+	margin-top: 10px;
+	width: 544px;
+}
+
+.categorieBox{
+	background: #ddd;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 425px;
+}
+
+.info-label {
+	background-color: white;
+	font-size: 15px;
+	text-align: center;
+	width: 70px;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+}
+
+.data-label {
+	width: 150px;
+}
+.status-label {
+	margin-left: 72px;
+}
+.text-label {
+	width: 90%;
+	text-align: left;
+}
+
+.profile-label {
+	background-color: #eee;
+	font-size: 16px;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 5px;
+}
+.predefinita{
+	cursor: default;
+}
+.cat-path {
+	font-size: 16px;
+	color: #3465a4;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+.links-title {
+	font-size: 16px;
+	color: #3465a4;
+	margin-left: 5px;
+}
+.newCat-LB {
+	width: 300px;
+	height: 35px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 15px;
+	margin: 6px 5px;
+	padding: 5px;
+}
